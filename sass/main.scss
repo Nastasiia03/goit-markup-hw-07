@@ -6,7 +6,17 @@
 @import './components/base';
 @import './components/reset';
 @import './components/container';
-@import './components/logo';
+
 
 // layouts styles
 @import './components/header';
+@import './components/navigation';
+@import './components/header-contacts';
+@import './components/hero';
+@import './components/modal-window';
+@import './components/register-form';
+
+
+// components styles
+@import './components/logo';
+@import './components/btn';
