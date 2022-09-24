@@ -3,20 +3,29 @@
 @import './utils/visually-hidden';
 
 // base styles
-@import './components/base';
-@import './components/reset';
-@import './components/container';
+@import './base/base';
+@import './base/reset';
+@import './base/container';
 
 
 // layouts styles
-@import './components/header';
-@import './components/navigation';
-@import './components/header-contacts';
-@import './components/hero';
-@import './components/modal-window';
-@import './components/register-form';
+@import './layouts/header';
+@import './layouts/navigation';
+@import './layouts/header-contacts';
+@import './layouts/hero';
+@import './layouts/features';
+@import './layouts/occupation';
+@import './layouts/team';
+@import './layouts/clients';
+@import './layouts/footer';
+@import './layouts/address';
+@import './layouts/portfolio';
 
 
 // components styles
 @import './components/logo';
 @import './components/btn';
+@import './components/modal-window';
+@import './components/register-form';
+@import './components/socials-links';
+@import './components/subscription-form';

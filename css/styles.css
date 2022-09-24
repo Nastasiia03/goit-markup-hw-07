@@ -450,7 +450,7 @@ p {
 
 /* Features */
 
-.features__list {
+/* .features__list {
   display: flex;
   gap: 30px;
 }
@@ -472,11 +472,11 @@ p {
 .features__desc {
   letter-spacing: 0.03em;
   color: var(--supporting-txt-cl);
-}
+} */
 
 /* What we do */
 
-.occupation__list {
+/* .occupation__list {
   display: flex;
   gap: 30px;
 }
@@ -508,11 +508,11 @@ img {
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: var(--light-txt-cl);
-}
+} */
 
 /* Our team */
 
-.team {
+/* .team {
   background-color: var(--grey-bg-cl);
 }
 
@@ -588,10 +588,10 @@ img {
 .socials-link:hover .social-icon,
 .socials-link:focus .social-icon {
   fill: var(--main-bg-cl);
-}
+} */
 /* Clients */
 
-.clients__list {
+/* .clients__list {
   display: flex;
   justify-content: center;
   gap: 30px;
@@ -628,11 +628,11 @@ img {
 .clients__link:hover .clients__icon,
 .clients__link:focus .clients__icon {
   fill: var(--accent-bg-cl);
-}
+} */
 
 /* Footer */
 
-.footer {
+/* .footer {
   background-color: var(--supporting-bg-cl);
   padding-top: 60px;
   padding-bottom: 60px;
@@ -641,21 +641,21 @@ img {
 .footer-container {
   display: flex;
   align-items: baseline;
-}
+} */
 
-.contacts-group {
+/* .address-group {
   display: block;
   width: 231px;
   margin-right: 70px;
-}
+} */
 
-.footer-logo {
+/* .footer-logo {
   color: var(--light-txt-cl);
   display: block;
   margin-bottom: 20px;
-}
+} */
 
-.address-list-item:not(:last-child) {
+/* .address-list-item:not(:last-child) {
   margin-bottom: 9px;
 }
 
@@ -675,9 +675,9 @@ img {
 .address-contact-link:hover,
 .address-contact-link:focus {
   color: var(--accent-txt-cl);
-}
+} */
 
-.socials {
+/* .socials {
   margin-right: 93px;
 }
 
@@ -693,9 +693,9 @@ img {
 
 .footer-icon {
   fill: var(--light-txt-cl);
-}
+} */
 
-.subscription-form-title {
+/* .subscription-form-title {
   display: block;
   color: var(--light-txt-cl);
   margin-bottom: 20px;
@@ -743,14 +743,14 @@ img {
   gap: 10px;
   width: 200px;
   height: 50px;
-}
+} */
 /* Portfolio */
 
-.portfolio {
+/* .portfolio {
   padding-top: 94px;
   padding-bottom: 94px;
 }
-/* Filters */
+
 
 .filters-list {
   display: flex;
@@ -783,7 +783,7 @@ img {
     0px 2px 2px rgba(0, 0, 0, 0.12);
 }
 
-/* Projects */
+
 
 .projects-list {
   display: flex;
@@ -858,4 +858,4 @@ img {
   font-size: 18px;
   line-height: calc(28 / 18);
   letter-spacing: 0.03em;
-}
+} */
